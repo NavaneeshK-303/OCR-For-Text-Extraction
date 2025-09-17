@@ -33,12 +33,12 @@ A Streamlit-based OCR app that extracts key details from GATE scorecard images u
 
 ## Project Structure
 OCR-For-Text-Extraction/
-├── main.py # Core Streamlit app with OCR logic
-├── frontend.py # Additional UI/frontend code
-├── requirements.txt # All required Python packages
-├── README.md # Project documentation
-├── venv/ # Virtual environment (if used)
-└── .idea/ # IDE files (optional)
+main.py
+frontend.py
+requirements.txt
+README.md
+venv/               (optional, virtual environment)
+.idea/              (optional, IDE config files)
 
 ## Troubleshooting
 - If you see "File does not exist: main.py", check:
